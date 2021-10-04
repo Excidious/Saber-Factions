@@ -432,8 +432,7 @@ CLAIM:
   ALLY: <b>Vous ne pouvez pas protéger la zone de vos alliés.
   CONTIGIOUS: <b>Vous pouvez seulement protéger des zones additionnelles qui sont connectées à votre première zone protégée ou contrôlée par une autre faction!
   FACTIONCONTIGUOUS: <b>Vous pouvez seulement protéger des zones additionnelles qui sont connectées à votre première zone protégée!
-  PEACEFUL: '%s<i> possède cette zone. Votre faction est paisible, donc vous ne pouvez pas protéger une zone
-    d'autres factions.'
+  PEACEFUL: '%s<i> possède cette zone. Votre faction est paisible, donc vous ne pouvez pas protéger une zone d''autres factions.'
   PEACEFULTARGET: '%s<i> possède cette zone, et c'est une faction paisible. Vous ne pouvez pas protéger
     une done leur appartenant.'
   THISISSPARTA: '%s<i> possède cette zone et est suffisamment forte pour la maintenir.'
